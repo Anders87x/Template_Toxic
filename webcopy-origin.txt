@@ -1,0 +1,1288 @@
+Uri: https://big-skins.com/frontend/foxic-html-demo/
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index.htm
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/404.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\404.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/about.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\about.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/account-addresses.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\account-addresses.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/account-create.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\account-create.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/account-details.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\account-details.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/account-history.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\account-history.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/account-wishlist.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\account-wishlist.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-category.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-category.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-01.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-01.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-02.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-02.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-03.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-03.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-books-01.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-books-01.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-books-02.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-books-02.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-books-03.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-books-03.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-books-04.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-books-04.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-fishing-01.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-fishing-01.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-fishing-02.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-fishing-02.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-fishing-03.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-fishing-03.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-food-01.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-food-01.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-food-02.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-food-02.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-food-03.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-food-03.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-food-04.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-food-04.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/ajax/ajax-product-tab-food-05.json
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\ajax\ajax-product-tab-food-05.json
+Content Type: application/json
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/blog-grid.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\blog-grid.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/blog-left-sidebar.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\blog-left-sidebar.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/blog-post.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\blog-post.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/blog-sticky-sidebar.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\blog-sticky-sidebar.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/blog-without-sidebar.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\blog-without-sidebar.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/blog.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\blog.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/cart-empty.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\cart-empty.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/cart.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\cart.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/category-closed-filter.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\category-closed-filter.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/category-empty.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\category-empty.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/category-horizontal-filter.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\category-horizontal-filter.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/category-listview.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\category-listview.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/category.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\category.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/checkout-2.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\checkout-2.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/checkout-3.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\checkout-3.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/checkout.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\checkout.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/collections.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\collections.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/coming-soon.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\coming-soon.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/cross_color.png
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\cross_color.png
+Content Type: image/png
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/style-books.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\style-books.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/style-cosmetics.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\style-cosmetics.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/style-electronics.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\style-electronics.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/style-fishing.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\style-fishing.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/style-food.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\style-food.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/style-games.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\style-games.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/style-helloween.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\style-helloween.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/style-lingeries.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\style-lingeries.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/style-medical.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\style-medical.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/style-pets.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\style-pets.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/style-rtl.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\style-rtl.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/style-sport.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\style-sport.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/style-viping.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\style-viping.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/style.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\style.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\vendor\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/css/vendor/vendor.min.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\css\vendor\vendor.min.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/faq.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\faq.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/fonts/icomoon/icon-foxic.svg?laqllw
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\fonts\icomoon\icon-foxic.svg
+Content Type: image/svg+xml
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/fonts/icomoon/icon-foxic.ttf?laqllw
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\fonts\icomoon\icon-foxic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/fonts/icomoon/icon-foxic.woff?laqllw
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\fonts\icomoon\icon-foxic.woff
+Content Type: application/font-woff
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/fonts/icomoon/icons.css
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\fonts\icomoon\icons.css
+Content Type: text/css
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/gallery.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\gallery.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/banners/banner-collection-aside.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\banners\banner-collection-aside.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/blog/comment-author-2.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\blog\comment-author-2.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/blog/comment-author.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\blog\comment-author.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/colorswatch/color-black.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\colorswatch\color-black.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/colorswatch/color-blue.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\colorswatch\color-blue.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/colorswatch/color-darkyellow.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\colorswatch\color-darkyellow.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/colorswatch/color-green.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\colorswatch\color-green.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/colorswatch/color-grey.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\colorswatch\color-grey.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/colorswatch/color-marine.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\colorswatch\color-marine.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/colorswatch/color-mint.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\colorswatch\color-mint.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/colorswatch/color-orange.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\colorswatch\color-orange.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/colorswatch/color-pink.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\colorswatch\color-pink.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/colorswatch/color-red.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\colorswatch\color-red.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/colorswatch/color-violet.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\colorswatch\color-violet.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/colorswatch/color-white.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\colorswatch\color-white.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/colorswatch/color-yellow.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\colorswatch\color-yellow.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/favicon.ico
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/flags/de.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\flags\de.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/flags/en.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\flags\en.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/flags/fr.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\flags\fr.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/flags/sp.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\flags\sp.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/gallery/gallery-1.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\gallery\gallery-1.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/gallery/gallery-2.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\gallery\gallery-2.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/gallery/gallery-3.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\gallery\gallery-3.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/gallery/gallery-4.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\gallery\gallery-4.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/gallery/gallery-5.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\gallery\gallery-5.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/gallery/gallery-6.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\gallery\gallery-6.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/gallery/gallery-7.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\gallery\gallery-7.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/gallery/gallery-8.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\gallery\gallery-8.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/gallery/gallery-9.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\gallery\gallery-9.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/header-banner.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\header-banner.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/logo.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\logo.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/logo2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\logo2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/pages/tumbleweed.gif
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\pages\tumbleweed.gif
+Content Type: image/gif
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/products/product-01.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\products\product-01.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/products/product-02.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\products\product-02.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/products/product-03.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\products\product-03.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/products/product-04.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\products\product-04.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/review-author-02.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\review-author-02.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/review-author.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\review-author.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-bikes.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-bikes.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-books.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-books.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-cosmetics.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-cosmetics.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-cups.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-cups.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-electronics.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-electronics.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-fishing.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-fishing.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-food.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-food.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-games.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-games.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-halloween.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-halloween.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-lingeries.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-lingeries.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-medical.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-medical.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-pets.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-pets.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-rtl.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-rtl.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-sport.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-sport.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-tshirts.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-tshirts.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen-vaping.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen-vaping.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen01.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen01.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen02.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen02.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen03.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen03.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen04.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen04.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen05.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen05.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen06.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen06.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen07.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen07.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen08.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen08.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen09.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen09.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/screen/screen10.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\screen\screen10.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/books/logo-books-footer.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\books\logo-books-footer.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/books/logo-books-footer2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\books\logo-books-footer2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/books/logo-books.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\books\logo-books.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/books/logo-books2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\books\logo-books2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/cosmetics/logo-cosmetics-footer.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\cosmetics\logo-cosmetics-footer.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/cosmetics/logo-cosmetics-footer2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\cosmetics\logo-cosmetics-footer2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/cosmetics/logo-cosmetics.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\cosmetics\logo-cosmetics.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/cosmetics/logo-cosmetics2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\cosmetics\logo-cosmetics2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/electronics/logo-electronics-footer.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\electronics\logo-electronics-footer.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/electronics/logo-electronics-footer2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\electronics\logo-electronics-footer2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/electronics/logo-electronics.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\electronics\logo-electronics.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/electronics/logo-electronics2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\electronics\logo-electronics2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/fashion/logo.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\fashion\logo.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/fashion/logo2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\fashion\logo2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/fashion/product-page/product-01.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\fashion\product-page\product-01.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/fashion/product-page/product-04.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\fashion\product-page\product-04.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/fashion/product-page/product-07.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\fashion\product-page\product-07.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/fashion/product-page/product-video.mp4
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\fashion\product-page\product-video.mp4
+Content Type: video/mp4
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/fashion/product-page/product-video.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\fashion\product-page\product-video.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/fashion/products/product-01-1.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\fashion\products\product-01-1.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/fishing/logo-fishing-footer.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\fishing\logo-fishing-footer.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/fishing/logo-fishing.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\fishing\logo-fishing.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/fishing/logo-fishing2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\fishing\logo-fishing2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/fishing/products/product-lookbook-01.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\fishing\products\product-lookbook-01.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/fishing/products/product-lookbook-02.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\fishing\products\product-lookbook-02.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/fishing/products/product-lookbook-03.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\fishing\products\product-lookbook-03.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/food/brush-shape-square.svg
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\food\brush-shape-square.svg
+Content Type: image/svg+xml
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/food/brush-shape.svg
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\food\brush-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/food/logo-food.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\food\logo-food.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/food/logo-food2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\food\logo-food2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/food/side-01.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\food\side-01.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/food/side-02.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\food\side-02.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/food/side-03.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\food\side-03.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/food/side-04.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\food\side-04.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/games/logo-games.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\games\logo-games.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/games/logo-games2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\games\logo-games2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/games/products/product-07-1.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\games\products\product-07-1.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/games/products/product-08-1.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\games\products\product-08-1.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/games/products/product-09-1.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\games\products\product-09-1.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/games/products/product-10-1.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\games\products\product-10-1.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/games/products/product-11-1.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\games\products\product-11-1.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/games/products/product-12-1.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\games\products\product-12-1.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/games/slider/video-screen.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\games\slider\video-screen.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/helloween/logo-helloween.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\helloween\logo-helloween.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/helloween/logo-helloween2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\helloween\logo-helloween2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/helloween/products/product-05-1.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\helloween\products\product-05-1.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/helloween/products/product-06-2.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\helloween\products\product-06-2.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/helloween/products/product-08-1.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\helloween\products\product-08-1.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/helloween/products/product-09-1.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\helloween\products\product-09-1.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/helloween/products/product-10-1.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\helloween\products\product-10-1.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/helloween/products/product-15-1.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\helloween\products\product-15-1.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/lingeries/logo-lingerie.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\lingeries\logo-lingerie.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/medical/logo-medical.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\medical\logo-medical.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/medical/logo-medical2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\medical\logo-medical2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/pets/logo-pets.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\pets\logo-pets.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/pets/logo-pets2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\pets\logo-pets2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/viping/banner-viping-fullwidth.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\viping\banner-viping-fullwidth.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/viping/image-viping-01_100x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\viping\image-viping-01_100x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/viping/image-viping-02_100x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\viping\image-viping-02_100x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/viping/image-viping-03_100x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\viping\image-viping-03_100x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/viping/logo-viping-footer.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\viping\logo-viping-footer.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/viping/logo-viping-footer2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\viping\logo-viping-footer2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/viping/logo-viping.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\viping\logo-viping.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/viping/logo-viping2x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\viping\logo-viping2x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/skins/viping/product-viping-icons_100x.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\skins\viping\product-viping-icons_100x.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/slider/slide-video.webp
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\slider\slide-video.webp
+Content Type: 
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/images/slider/slider-video.mp4
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\images\slider\slider-video.mp4
+Content Type: video/mp4
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-02.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-02.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-03.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-03.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-04.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-04.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-05.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-05.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-06.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-06.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-07.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-07.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-08.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-08.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-09.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-09.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-10.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-10.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-books.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-books.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-cosmetics.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-cosmetics.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-electronics.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-electronics.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-fishing.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-fishing.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-food.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-food.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-games.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-games.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-helloween.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-helloween.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-lingeries.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-lingeries.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-medical.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-medical.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-pets.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-pets.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-rtl.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-rtl.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-sport.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-sport.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index-viping.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index-viping.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/index.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\index.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/js/app-html.js
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\js\app-html.js
+Content Type: application/javascript
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/js/vendor-special/instafeed.min.js
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\js\vendor-special\instafeed.min.js
+Content Type: application/javascript
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/js/vendor-special/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\js\vendor-special\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/js/vendor-special/jquery.ez-plus.js
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\js\vendor-special\jquery.ez-plus.js
+Content Type: application/javascript
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/js/vendor-special/jquery.min.js
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\js\vendor-special\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/js/vendor-special/lazysizes.min.js
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\js\vendor-special\lazysizes.min.js
+Content Type: application/javascript
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/js/vendor-special/ls.aspectratio.min.js
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\js\vendor-special\ls.aspectratio.min.js
+Content Type: application/javascript
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/js/vendor-special/ls.bgset.min.js
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\js\vendor-special\ls.bgset.min.js
+Content Type: application/javascript
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/js/vendor/vendor.min.js
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\js\vendor\vendor.min.js
+Content Type: application/javascript
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/product-2.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\product-2.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/product-3.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\product-3.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/product-4.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\product-4.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/product-5.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\product-5.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/product-6.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\product-6.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/product-7.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\product-7.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/product.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\product.html
+Content Type: text/html
+
+Uri: https://big-skins.com/frontend/foxic-html-demo/typography.html
+File Name: C:\Downloaded Web Sites\big-skins.com\frontend\foxic-html-demo\typography.html
+Content Type: text/html
+
+Uri: https://cdn.shopify.com/s/files/1/0201/0942/6742/files/coverr-cleaning-hands-with-sanitizer-1583825391933.mp4?v=1592911532
+File Name: C:\Downloaded Web Sites\big-skins.com\s\files\1\0201\0942\6742\files\coverr-cleaning-hands-with-sanitizer-1583825391933.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.shopify.com/s/files/1/0201/0942/6742/files/video-girl.mp4?v=1594287483
+File Name: C:\Downloaded Web Sites\big-skins.com\s\files\1\0201\0942\6742\files\video-girl.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.shopify.com/s/files/1/0505/5525/7032/files/lingerie.mp4?v=1607177170
+File Name: C:\Downloaded Web Sites\big-skins.com\s\files\1\0505\5525\7032\files\lingerie.mp4
+Content Type: video/mp4
+
+Uri: https://fonts.googleapis.com/css2?family=Hind Siliguri:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\big-skins.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\big-skins.com\css2-7
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\big-skins.com\css2-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap
+File Name: C:\Downloaded Web Sites\big-skins.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\big-skins.com\css2-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;400;500;600;700&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap
+File Name: C:\Downloaded Web Sites\big-skins.com\css2-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Open Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\big-skins.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Oswald:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\big-skins.com\css2-8
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\big-skins.com\css2-10
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\big-skins.com\css2-9
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\big-skins.com\css2-4
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/hindsiliguri/v12/ijwOs5juQtsyLLR5jN4cxBEoRCf_4uE.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\hindsiliguri\v12\ijwOs5juQtsyLLR5jN4cxBEoRCf_4uE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hindsiliguri/v12/ijwOs5juQtsyLLR5jN4cxBEoRDf44uE.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\hindsiliguri\v12\ijwOs5juQtsyLLR5jN4cxBEoRDf44uE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hindsiliguri/v12/ijwOs5juQtsyLLR5jN4cxBEoREP-4uE.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\hindsiliguri\v12\ijwOs5juQtsyLLR5jN4cxBEoREP-4uE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hindsiliguri/v12/ijwOs5juQtsyLLR5jN4cxBEoRG_54uE.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\hindsiliguri\v12\ijwOs5juQtsyLLR5jN4cxBEoRG_54uE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hindsiliguri/v12/ijwTs5juQtsyLLR5jN4cxBEofJs.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\hindsiliguri\v12\ijwTs5juQtsyLLR5jN4cxBEofJs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxswWw.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\lato\v24\S6u8w4BMUTPHjxswWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50Xew8.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\lato\v24\S6u9w4BMUTPHh50Xew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVew8.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\lato\v24\S6u9w4BMUTPHh6UVew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USew8.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\lato\v24\S6u9w4BMUTPHh7USew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHvxk.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\lato\v24\S6uyw4BMUTPHvxk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wiPHA.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\lato\v24\S6u_w4BMUTPHjxsI3wiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wqPHA.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\lato\v24\S6u_w4BMUTPHjxsI5wqPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notoseriftc/v23/XLY9IZb5bJNDGYxLBibeHZ0BvoMtbX8.otf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\notoseriftc\v23\XLY9IZb5bJNDGYxLBibeHZ0BvoMtbX8.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notoseriftc/v23/XLY9IZb5bJNDGYxLBibeHZ0Bvq8qbX8.otf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\notoseriftc\v23\XLY9IZb5bJNDGYxLBibeHZ0Bvq8qbX8.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notoseriftc/v23/XLY9IZb5bJNDGYxLBibeHZ0BvssrbX8.otf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\notoseriftc\v23\XLY9IZb5bJNDGYxLBibeHZ0BvssrbX8.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notoseriftc/v23/XLY9IZb5bJNDGYxLBibeHZ0BvtssbX8.otf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\notoseriftc\v23\XLY9IZb5bJNDGYxLBibeHZ0BvtssbX8.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/notoseriftc/v23/XLYgIZb5bJNDGYxLBibeHZ0BhnE.otf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\notoseriftc\v23\XLYgIZb5bJNDGYxLBibeHZ0BhnE.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVc.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\opensans\v36\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\opensans\v36\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\opensans\v36\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\opensans\v36\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkaVc.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\opensans\v36\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjARc9.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjARc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu52xP.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\roboto\v30\KFOkCnqEu92Fr1Mu52xP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\big-skins.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://s7.addthis.com/js/300/addthis_widget.js
+File Name: C:\Downloaded Web Sites\big-skins.com\js\300\addthis_widget.js
+Content Type: text/javascript
+
